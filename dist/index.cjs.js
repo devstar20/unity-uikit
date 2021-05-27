@@ -2174,7 +2174,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/SumoSwapFinance",
+        href: "https://twitter.com/Vangoldtoken",
     },
 ];
 var MENU_HEIGHT = 64;
