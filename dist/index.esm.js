@@ -2086,15 +2086,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/vangoldswap",
             },
             {
                 label: "Docs",
-                href: "https://sumoswap.gitbook.io/sumoswap/",
+                href: "https://cutt.ly/2nigzjy",
             },
             {
                 label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "https://medium.com/@vangoldtoken",
             },
         ],
     },
@@ -2106,7 +2106,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/sumoswapfinance",
+                href: "https://t.me/vangoldtoken1",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2150,7 +2150,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/sumoswapannouncements",
+                href: "https://t.me/vangoldtoken",
             },
             // {
             //   label: "Whale Alert",
